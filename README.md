@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Professional</a>, <a href="https://github.com/dvd1587">Analyst & Programmer</a> 
+
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Hello, World! </b>
+  - [Creating your first program](https://github.com/dvd1587/Hello-World)
 
 <!--
 **dvd1587/dvd1587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
