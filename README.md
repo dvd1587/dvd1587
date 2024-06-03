@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Hello, World! </b>
-  - [Creating your first program](https://github.com/dvd1587/Hello-World)
+- <b>Energy Efficiency Modeling</b>
+  - [Simple Energy Efficiency Multiple Regression Model](https://github.com/dvd1587/energy_eff_olm/tree/main)
 
 <!--
 **dvd1587/dvd1587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
