@@ -1,4 +1,4 @@
-## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Professional</a>, <a href="https://github.com/dvd1587">Analyst & Programmer</a> 
+## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Professional</a> <a href="https://github.com/dvd1587"></a> 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
