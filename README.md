@@ -12,7 +12,7 @@
 <h2>👨‍💻 LCA Projects:</h2>
 
 - <b>LCA Carbon Footprint - Natural Gas</b>
-  - [LCA Model - Natural Gas Transportation - GREET](https://github.com/dvd1587/energy_eff_olm/tree/main)
+  - [LCA Model - Natural Gas Transportation - GREET](https://github.com/dvd1587/greet_LCA)
  
 <!--
 **dvd1587/dvd1587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
