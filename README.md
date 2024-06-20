@@ -6,7 +6,7 @@
   - [Energy Efficiency Multiple Regression Model](https://github.com/dvd1587/energy_eff_olm)
 - <b>Climate Risk & Adaptation - Florida Storm Probability</b>
   - [Python model for rate and probability of storms in Florida](https://github.com/dvd1587/storm_probability)   
-- <b>Food Waste Exploratory Data Analysis - EDA</b>
+- <b>Global Food Waste - EDA</b>
   - [Global Food Waste - Exploratory Data Analysis](https://github.com/dvd1587/food_waste_eda)   
 
 <h2>👨‍💻 Solar:</h2>
