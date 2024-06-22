@@ -9,7 +9,7 @@
 - <b>Global Food Waste - EDA & Visualization</b>
   - [Global Food Waste - Exploratory Data Analysis & Visualization](https://github.com/dvd1587/food_waste_eda)
 - <b>Country-wise Annual Temperature Anomalies</b>
-  - [Ploly Dashboard - Annual Temperature Anomalies in Countries](https://github.com/dvd1587/dash_temp_anomalies)
+  - [Plotly Dashboard - Annual Temperature Anomalies in Countries](https://github.com/dvd1587/dash_temp_anomalies)
 - <b>Solar Energy Production & Prediction</b>
   - [Solar Energy Production Analysis and Prediction Model](https://github.com/dvd1587/solar_prod_pred)
 - <b>Solar Project Finance DCF Model</b>
