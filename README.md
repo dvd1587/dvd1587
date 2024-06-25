@@ -1,4 +1,4 @@
-## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Analyst & Coordinator</a> <a href="https://github.com/dvd1587"></a> 
+## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Management Graduate</a> <a href="https://github.com/dvd1587"></a> 
 
 <h2>🌍 Sustainability:</h2>
 
@@ -12,10 +12,10 @@
   - [Plotly Dashboard - Annual Temperature Anomalies in Countries](https://github.com/dvd1587/dash_temp_anomalies)
 - <b>Global Annual Temperature Anomalies Forecasting</b>
   - [Global Annual Temperature Anomalies Timeseries Forecasting - ARIMA, SARIMAX & LSTM](https://github.com/dvd1587/annual_temp_anom)
-- <b>Solar Energy Production Analysis & Prediction</b>
 
 <h2>🌞 Solar:</h2>
 
+- <b>Solar Energy Production Analysis & Prediction</b>
   - [Solar Energy Production Analysis and Prediction using Prophet Model](https://github.com/dvd1587/solar_prod_pred)
 - <b>Solar Project Finance DCF Model</b>
   - [Solar Project Finance Model](https://github.com/dvd1587/solar_project_finance)
