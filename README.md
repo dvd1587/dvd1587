@@ -3,7 +3,7 @@
 <h2>🌍 Sustainability:</h2>
 
 - <b>Energy Efficiency Data Analysis & Modeling</b>
-  - [Energy Efficiency Multiple Regression Model](https://github.com/dvd1587/energy_eff_olm)
+  - [Energy Efficiency Multiple Regression Model w/ PCA](https://github.com/dvd1587/energy_eff_olm)
 - <b>Climate Risk & Adaptation - Florida Storm Probability</b>
   - [Python model for rate and probability of storms in Florida](https://github.com/dvd1587/storm_probability)   
 - <b>Global Food Waste - EDA & Visualization</b>
