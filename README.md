@@ -10,7 +10,7 @@
   - [Global Food Waste - Exploratory Data Analysis & Visualization](https://github.com/dvd1587/food_waste_eda)
 - <b>Country-wise Annual Temperature Anomalies</b>
   - [Plotly Dashboard - Annual Temperature Anomalies in Countries](https://github.com/dvd1587/dash_temp_anomalies)
-- <b>Annual Temperature Anomalies Timeseries Forecasting</b>
+- <b>Annual Temperature Anomalies Forecasting</b>
   - [Annual Temperature Anomalies Timeseries Forecasting - ARIMA, SARIMAX & LSTM](https://github.com/dvd1587/annual_temp_anom)
 - <b>Solar Project Finance DCF Model</b>
   - [Solar Project Finance Model](https://github.com/dvd1587/solar_project_finance)  
