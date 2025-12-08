@@ -1,4 +1,4 @@
-## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Sustainability Management Graduate</a> <a href="https://github.com/dvd1587"></a> 
+## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Data & Sustainability Professional</a> <a href="https://github.com/dvd1587"></a> 
 
 <h2>🌍 Sustainability:</h2>
 
