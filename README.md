@@ -3,7 +3,7 @@
 <h2>🌍 Sustainability:</h2>
 
 - <b>NYC Buildings Energy, Emissions & Water Use Map</b>
-  - [Interactive NYC Map for Buildings Energy, Water Use & Emissions w/ Leaflet and SODA API using JavaScript](https://github.com/dvd1587/nyc_energy_map)
+  - [Interactive NYC Map for Buildings' Energy, Water Use & Emissions w/ Leaflet and SODA API using JavaScript](https://github.com/dvd1587/nyc_energy_map)
 - <b>Energy Efficiency Data Analysis & Modeling</b>
   - [Energy Efficiency Multiple Regression Model w/ PCA](https://github.com/dvd1587/energy_eff_olm)
 - <b>Climate Risk & Adaptation - Florida Storm Probability</b>
