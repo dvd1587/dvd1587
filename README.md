@@ -1,11 +1,14 @@
 ## Hi, I'm Prateek! 🙂 <br/><a href="https://www.linkedin.com/in/dprateek/">Data & Sustainability Professional</a> <a href="https://github.com/dvd1587"></a> 
 
-<h2>🌍 Sustainability:</h2>
+<h2>⚡️📈 Energy:</h2>
 
 - <b>NYC Buildings Energy, Emissions & Water Use Map</b>
   - [Interactive NYC Map for Buildings' Energy, Water Use & Emissions w/ Leaflet and SODA API using JavaScript](https://github.com/dvd1587/nyc_energy_map)
 - <b>Energy Efficiency Data Analysis & Modeling</b>
   - [Energy Efficiency Multiple Regression Model w/ PCA](https://github.com/dvd1587/energy_eff_olm)
+
+<h2>🌍 Sustainability:</h2>
+
 - <b>Climate Risk & Adaptation - Florida Storm Probability</b>
   - [Python model for rate and probability of storms in Florida](https://github.com/dvd1587/storm_probability)   
 - <b>Global Food Waste - EDA & Visualization</b>
