@@ -9,6 +9,8 @@
 
 <h2>🌍 Sustainability:</h2>
 
+- <b>F&B Executive Sustainability KPIs Dashboard</b>
+  - [Interactive F&B Executive Sustainability KPIs Dashboard in Tableau](https://github.com/dvd1587/fnb_sustainability)   
 - <b>Climate Risk & Adaptation - Florida Storm Probability</b>
   - [Python model for rate and probability of storms in Florida](https://github.com/dvd1587/storm_probability)   
 - <b>Global Food Waste - EDA & Visualization</b>
