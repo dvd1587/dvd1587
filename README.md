@@ -4,6 +4,8 @@
 
 - <b>NYC Buildings Energy, Emissions & Water Use Map</b>
   - [Interactive NYC Map for Buildings' Energy, Water Use & Emissions w/ Leaflet and SODA API using JavaScript](https://github.com/dvd1587/nyc_energy_map)
+- <b>Global Energy Data Analysis 2025 - Ember Energy</b>
+  - [Global Energy Data Analysis 2025 (with focus on metrics like Carbon Intensity)](https://github.com/dvd1587/global_energy_data_analysis_2025)    
 - <b>Energy Efficiency Data Analysis & Modeling</b>
   - [Energy Efficiency Multiple Regression Model w/ PCA](https://github.com/dvd1587/energy_eff_olm)
 
@@ -20,18 +22,19 @@
 - <b>Global Annual Temperature Anomalies Forecasting</b>
   - [Global Annual Temperature Anomalies Timeseries Forecasting - ARIMA, SARIMAX & LSTM](https://github.com/dvd1587/annual_temp_anom)
 
-<h2>🌞 Solar:</h2>
+<h2>🌞 Solar & Finance:</h2>
 
 - <b>Solar Energy Production Analysis & Prediction</b>
   - [Solar Energy Production Analysis and Prediction using Prophet Model](https://github.com/dvd1587/solar_prod_pred)
 - <b>Solar Project Finance DCF Model</b>
   - [Solar Project Finance Model](https://github.com/dvd1587/solar_project_finance)
+- <b>Private Equity Financial & ESG Analytics</b>
+  - [Private Equity Financial & ESG Analytics Dashboard](https://github.com/dvd1587/pe_analytics_financial_esg)
 
 <h2>📊 LCA:</h2>
  
 - <b>LCA Carbon Footprint - Natural Gas</b>
   - [LCA Model - Natural Gas Transportation - GREET](https://github.com/dvd1587/greet_LCA)
-
 
  
 <!--
