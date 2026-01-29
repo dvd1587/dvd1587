@@ -4,10 +4,12 @@
 
 - <b>NYC Buildings Energy, Emissions & Water Use Map</b>
   - [Interactive NYC Map for Buildings' Energy, Water Use & Emissions w/ Leaflet and SODA API using JavaScript](https://github.com/dvd1587/nyc_energy_map)
-- <b>Global Energy Data Analysis 2025 - Ember Energy</b>
-  - [Global Energy Data Analysis 2025 (with focus on metrics like Carbon Intensity)](https://github.com/dvd1587/global_energy_data_analysis_2025)    
+- <b>Global Energy Data Analysis 2025</b>
+  - [Global Energy Data Analysis 2025 (Ember Energy - Jan 2026)](https://github.com/dvd1587/global_energy_data_analysis_2025)    
 - <b>Energy Efficiency Data Analysis & Modeling</b>
   - [Energy Efficiency Multiple Regression Model w/ PCA](https://github.com/dvd1587/energy_eff_olm)
+- <b>Global Electricity Carbon Intensity Analytics</b>
+  - [Global Electricity Carbon Intensity Analytics Dashboard](https://github.com/dvd1587/global_electricity_carbon)
 
 <h2>🌍 Sustainability:</h2>
 
